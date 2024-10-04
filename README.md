@@ -10,7 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=ChildishSky2&style=flat-square&color=blue" alt=""/>
 </div>
 
-## Hi there 👋
+<div id="Content" align="center">
+  ## Hi there 👋
+</div>
 
 <!--
 **ChildishSky2/ChildishSky2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,4 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-=
+
