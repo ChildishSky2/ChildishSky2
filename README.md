@@ -28,7 +28,7 @@
 
 ---
 <div id="P_counter" align="center">
-  ### :fire: My Stats :
+  :fire: My Stats :fire:
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChildishSky2&theme=dark&background=000000)](https://git.io/streak-stats)
 
