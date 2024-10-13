@@ -27,11 +27,12 @@
 </div>
 
 ---
+<div id="P_counter" align="center">
+  ### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChildishSky2&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChildishSky2&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChildishSky2&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChildishSky2&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <!--
 **ChildishSky2/ChildishSky2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
